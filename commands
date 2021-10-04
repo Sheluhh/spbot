@@ -1,0 +1,12 @@
+help/commands - "sends the link to this page, is page because pagination is lame"
+ping - "Sends bot's server to discord ping"
+av/avatar - "Sends mentioned user's avatar" # if no user is mentioned it sends message author's av
+join - "join the users vc" # potentional music commands
+leave - "leaves the currrent VC"
+whois - "sends user's basic info, when they joined and all that"
+info - "sends bot info"
+test - "test command, might be dangerous"
+git - "sends link to the main page, all the source code and cool stuff"
+say - "client sends the command args" # sp!say open source rules!!
+
+### More commands might be added, i might also forget to update page
