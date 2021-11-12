@@ -1,4 +1,4 @@
-help/commands - "sends the link to this page, is page because pagination is lame"
+help - "sends the link to this page, is page because pagination is lame"
 ping - "Sends bot's server to discord ping"
 av/avatar - "Sends mentioned user's avatar" # if no user is mentioned it sends message author's av
 join - "join the users vc" # potentional music commands
