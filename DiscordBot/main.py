@@ -22,7 +22,7 @@ import praw
 
 intents = discord.Intents().all()
 client = commands.Bot(command_prefix="s!", intents=intents, help_command=None)
-reddit = praw.Reddit(client_id="RZhiqiKPfFW0Nw", client_secret="4XZmEV8pwwJ7au9SXZJ6EZAMdktkeA", user_agent="AustinsBot")
+reddit = praw.Reddit(client_id="redditclient", client_secret="redditclientsecret", user_agent="clientname")
 
 p = ["Ping!", "Pong!"]
 ans = ["yes", "nah", "there might be a chance"]
