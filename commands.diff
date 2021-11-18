@@ -1,0 +1,6 @@
+- Pagination is lame
+
++ Help :: Sends you an embed message that leads to here
++ reaction :: reply to a message to make a reaction role (s!reaction :emoji: @ROLE)
++ source :: sends the source code a specific command (s!source ping)
++ 
