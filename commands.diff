@@ -3,4 +3,19 @@
 + Help :: Sends you an embed message that leads to here
 + reaction :: reply to a message to make a reaction role (s!reaction :emoji: @ROLE)
 + source :: sends the source code a specific command (s!source ping)
-+ 
++ help :: sends you to this page
++ add :: sends you a link to add the bot to your server
++ info :: bot info
++ ping :: client latency
++ math :: helps you with homework (s!math 4/2)
++ rad :: does radical of specific number
++ av/avatar :: sends mentioned users avatar, if none is mention, user is author
++ 8ball :: classic 8ball command
++ say :: make the bot send a custom message
++ rr :: game of russian roulette
++ whois :: sends user info
++ nsfw :: grabs reddit post from nsfw
++ ngif :: sends a nsfw gif
++ meme :: sends a haha meme
++ rule :: sends a post from r/196 most likely political
++ milf :: sends a milf pic
